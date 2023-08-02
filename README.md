@@ -10,7 +10,6 @@ A simple web application to view characters from the TV show "Rick and Morty."
 - npm (Node Package Manager)
 
 ## Getting Started
-
 To run this project locally on your machine, follow the steps below:
 
 1. Clone this repository to your local machine using the following command:
